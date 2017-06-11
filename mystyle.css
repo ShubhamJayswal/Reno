@@ -16,7 +16,7 @@ nav.navbar{
 
   margin-bottom: 0px;
   height: 7.15em;
-  border-style: solid;
+  
 
 }
 
@@ -40,8 +40,7 @@ div.jumbotron{
 height: 35.75em;
 width: 42.64392324093817%;
 
-border-style: solid;
-border-color: red;
+
 
 }
 
@@ -62,8 +61,7 @@ height: 100%;
 .two-blocks{
   margin-left:15%;
   margin-right:15%;
-  border-style:solid;
-  border-color: yellow;
+  
   height: 38em;
 }
 
@@ -76,7 +74,7 @@ color:darkslategrey;
 opacity:0.97;
 height: 100%;
 width: 100%;
-
+padding-left: 13.3086876155268%;
 
 
 }
@@ -86,8 +84,7 @@ width: 100%;
   float: left;
   background-image: url("black_dell.jpg");
   position: relative;
-  border-style:solid;
-  border-color: blue;
+
 
 
   height: 35.75em;
