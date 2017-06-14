@@ -244,6 +244,7 @@ font-family: "Times Header";
 
 
 .second{
+  margin-top: 0;
   background-color:#362166  !important;
   height: 7.936em;
   opacity: 0.93 !important;
