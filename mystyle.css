@@ -80,6 +80,15 @@ height: 100%;
 }
 
 
+.second_block{
+  margin-left:15%;
+  margin-right:15%;
+  border-style:solid;
+  border-color: yellow;
+  height: 36em;
+
+}
+
 div.information{
 
 font-family: Times, "Times New Roman", Georgia, serif;
