@@ -23,9 +23,9 @@ nav.navbar{
 
 
 
-.jumbotron{
-  margin-left: 15%;
-  margin-right:15%;
+div.jumbotron{
+  padding-left: 15%;
+  padding-right:15%;
   margin-bottom: 0px;
   opacity: 0.93;
   border-radius: 0!important;
