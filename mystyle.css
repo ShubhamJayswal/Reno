@@ -44,6 +44,19 @@ width: 42.64392324093817%;
 
 }
 
+
+.image_second_block{
+
+
+height: 35.75em;
+
+width:50%;
+
+float:left;
+
+
+}
+
 img{
 
 width:100%;
@@ -93,7 +106,14 @@ padding-left: 13.3086876155268%;
 
 }
 
-
+.info_second_block{
+  float: right;
+  background-image: url("black_dell.jpg");
+  position: relative;
+  height: 35.75em;
+  width: 50%;
+  
+}
 
 
 
