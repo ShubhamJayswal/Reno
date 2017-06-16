@@ -86,7 +86,12 @@ float:left;
 }
 
 
-
+.third{
+  margin-top:0px;
+  background-color:#547D83 !important;
+  height: 7.936em;
+  opacity: 0.96 !important;
+}
 
 
 
