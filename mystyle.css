@@ -311,6 +311,15 @@ font-family: "Times Header";
 }
 
 
+h3.exp{
+
+  color: white !important;
+  font-size: 60px;
+  margin-top: -20px;
+  font-family: "Times Header";
+}
+
+
 .second{
   margin-top: 0px;
   background-color:#362166  !important;
